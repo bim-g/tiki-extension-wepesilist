@@ -1,6 +1,6 @@
 <?php
 
-namespace Wepesi\App;
+namespace Wepesi;
 
 class TikiDemo
 {
