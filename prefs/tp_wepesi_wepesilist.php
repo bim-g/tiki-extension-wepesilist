@@ -1,6 +1,6 @@
 <?php
 
-function prefs_tp_wepesi_tiki_demo_list()
+function prefs_tp_wepesi_wepesilist_list()
 {
     return array(
         'tp_wepesi_wepesilist__sample' => [
