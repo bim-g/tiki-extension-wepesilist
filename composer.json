@@ -2,10 +2,11 @@
     "name": "wepesi/wepesilist",
     "description": "simple wepesi extension to test tiki package extension",
     "type": "library",
+    "keywords": ["wepesi"],
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Wepesi\\App\\": "src/"
+            "Wepesi\\": "src/"
         }
     },
     "authors": [
@@ -16,6 +17,6 @@
     ],
     "minimum-stability": "stable",
         "require": {
-            "php" : "^7.4"
+            "php" : "^7.4 || ~8.0.0 || ~8.1.0 || ~8.2.0"
         }
 }
