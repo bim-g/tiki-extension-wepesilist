@@ -14,7 +14,7 @@
             "email": "ibmussafb@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "prefer-stable": true,
     "require": {}
 }
