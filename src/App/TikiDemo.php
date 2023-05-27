@@ -4,7 +4,7 @@ namespace Wepesi\App;
 
 class TikiDemo
 {
-    public function index()
+    public function home()
     {
         return 'hello world';
     }
