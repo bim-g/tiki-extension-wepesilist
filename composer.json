@@ -15,16 +15,6 @@
         }
     ],
     "minimum-stability": "stable",
-    "repositories": [
-        {
-            "type": "composer",
-            "url": "https://packagist.org/packages/wepesi/wepesilist"
-        },
-        {
-            "type": "vcs",
-            "url": "https://github.com/bim-g/tiki-extension-wepesilist"
-        }
-        ],
         "require": {
             "php" : "^7.4"
         }
