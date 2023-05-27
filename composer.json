@@ -1,0 +1,19 @@
+{
+    "name": "wepesi/wepesilist",
+    "description": "simple wepesi extension to test tiki package extension",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Wepesi\\App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "bim-g",
+            "email": "ibmussafb@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
